@@ -27,6 +27,12 @@ This version introduces internal improvements aimed at enhancing stability, comp
 
 ---
 
+## 📷 Screenshot
+
+<img width="492" height="277" alt="Screenshot (776)" src="https://github.com/user-attachments/assets/e85ea39c-2134-489e-9398-64438be35982" />
+
+---
+
 ## ⚠️ License & Restrictions
 
 This project is **closed-source**.  
