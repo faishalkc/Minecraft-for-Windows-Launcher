@@ -1,6 +1,6 @@
 # Minecraft for Windows Launcher
 
-A customized **closed-source** launcher for **Minecraft GDK based (Game Development Kit)**.  
+A customized **closed-source** launcher for **Minecraft GDK based**.  
 This version introduces internal improvements aimed at enhancing stability, compatibility, and overall runtime performance.
 
 ---
@@ -36,4 +36,4 @@ Redistribution, modification, or reverse engineering of any binaries or related 
 
 ## 📝 Notes
 
-This launcher is provided as-is, focusing on stability and compatibility improvements for the **Minecraft GDK** environment.
+This launcher is provided as-is, focusing on stability and compatibility improvements for the **Minecraft GDK based** environment.
