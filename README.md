@@ -1,7 +1,6 @@
 # Minecraft for Windows Launcher
 
-A customized **closed-source** launcher for **Minecraft GDK based**.  
-This version introduces internal improvements aimed at enhancing stability, compatibility, and overall runtime performance.
+A customized **closed-source** launcher for **Minecraft GDK based**. This version introduces internal improvements aimed at enhancing stability, compatibility, and overall runtime performance.
 
 ---
 
@@ -24,12 +23,6 @@ This version introduces internal improvements aimed at enhancing stability, comp
 2. **Run the installer** and follow the usual installation steps.  
 3. Once installation is complete, the launcher will appear in your **Start Menu** and on your **Desktop**.  
 4. **Launch** the program from the Start Menu or Desktop shortcut. It is ready to use immediately.  
-
----
-
-## 📷 Screenshot
-
-<img width="492" height="277" alt="Screenshot (776)" src="https://github.com/user-attachments/assets/e85ea39c-2134-489e-9398-64438be35982" />
 
 ---
 
