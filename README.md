@@ -19,7 +19,7 @@ A customized **closed-source** launcher for **Minecraft GDK based**. This versio
 
 ## 🚀 Usage
 
-1. **Download** the latest `.exe` release from the GitHub Releases page.  
+1. **Download** the latest `setup.exe` release from the GitHub Releases page.  
 2. **Run the installer** and follow the usual installation steps.  
 3. Once installation is complete, the launcher will appear in your **Start Menu** and on your **Desktop**.  
 4. **Launch** the program from the Start Menu or Desktop shortcut. It is ready to use immediately.  
